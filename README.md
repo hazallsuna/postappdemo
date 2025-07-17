@@ -7,13 +7,15 @@ Ziyaretçilerin gönderi oluşturabildiği, düzenleyebildiği ve silebildiği t
 
 ## 🚀 Özellikler
 
-- ✅ Yeni gönderi oluşturma
-- ✏️ Gönderileri düzenleme
-- 🗑️ Gönderileri silme
-- 🧠 Global state yönetimi (Zustand)
-- ✔️ Form doğrulama (React Hook Form + Zod)
-- ⚡ Server Actions ile backend işlemleri
-- 🌈 Responsive kullanıcı arayüzü (Tailwind CSS)
+- ✅ Yeni gönderi oluşturma  
+- ✏️ Gönderileri düzenleme  
+- 🗑️ Gönderileri silme  
+- 🧠 Global state yönetimi (Zustand)  
+- ✔️ Form doğrulama (React Hook Form + Zod)  
+- ⚡ Server Actions ile backend işlemleri  
+- 🌈 Responsive kullanıcı arayüzü (Tailwind CSS)  
+- 🧱 Next.js 14 ile modern tam stack mimari  
+- 🌐 Vercel üzerinde yayınlanan canlı uygulama 
 
 ---
 
