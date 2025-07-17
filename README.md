@@ -2,6 +2,7 @@
 
 Ziyaretçilerin gönderi oluşturabildiği, düzenleyebildiği ve silebildiği tam işlevli bir gönderi yönetim uygulamasıdır.
 
+🔗[Uygulamayı Canlı Görüntüle](https://postappdemo-pzxvpd2sp-hazals-projects-53a4fddc.vercel.app/)
 ---
 
 ## 🚀 Özellikler
