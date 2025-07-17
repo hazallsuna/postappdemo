@@ -20,15 +20,18 @@ Ziyaretçilerin gönderi oluşturabildiği, düzenleyebildiği ve silebildiği t
 
 ### 📄 Gönderi Listesi
 
-![Post List](./public/screenshots/Ekran görüntüsü 2025-07-18 012128.png)
+<img width="1892" height="903" alt="Ekran görüntüsü 2025-07-18 012128" src="https://github.com/user-attachments/assets/73154484-e2ea-49a6-a77b-9654eea79330" />
+
 
 ### 🎯 Gönderi Oluşturma Formu
 
-![Create Post](./public/screenshots/Ekran görüntüsü 2025-07-18 013009.png)
+<img width="1135" height="359" alt="Ekran görüntüsü 2025-07-18 013009" src="https://github.com/user-attachments/assets/bc9c3610-d621-49a6-a018-e70f624577d7" />
+
 
 ### ✏️ Gönderi Düzenleme Formu
 
-![Edit Post](./public/screenshots/public/screenshots/Ekran görüntüsü 2025-07-18 012149.png)
+<img width="995" height="554" alt="Ekran görüntüsü 2025-07-18 012149" src="https://github.com/user-attachments/assets/cbdbeb83-4112-4ef8-9a09-4b3d226f436e" />
+
 ---
 
 ## 🧰 Kullanılan Teknolojiler
