@@ -1,6 +1,6 @@
 # 📝 Post Management App
 
-Ziyaretçilerin gönderi oluşturabildiği, düzenleyebildiği ve silebildiği tam işlevli bir gönderi yönetim uygulamasıdır. Modern web teknolojileri kullanılarak geliştirilmiştir.
+Ziyaretçilerin gönderi oluşturabildiği, düzenleyebildiği ve silebildiği tam işlevli bir gönderi yönetim uygulamasıdır.
 
 ---
 
